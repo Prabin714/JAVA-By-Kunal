@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA-Bootcamp-Java/Lectures/5-First Java Program/5-First Java Program.iml" filepath="$PROJECT_DIR$/DSA-Bootcamp-Java/Lectures/5-First Java Program/5-First Java Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-Bootcamp-Java/Lectures/5-Conditionals and Loops/Condition/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/DSA-Bootcamp-Java/Lectures/5-Conditionals and Loops/Condition/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-Bootcamp-Java/Lectures/5-First Java Program/First-Idea-Program/First-Idea-Program.iml" filepath="$PROJECT_DIR$/DSA-Bootcamp-Java/Lectures/5-First Java Program/First-Idea-Program/First-Idea-Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA By Kunal.iml" filepath="$PROJECT_DIR$/.idea/JAVA By Kunal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-Bootcamp-Java/Lectures/5-Conditionals and Loops/Condition/Loops/Loops.iml" filepath="$PROJECT_DIR$/DSA-Bootcamp-Java/Lectures/5-Conditionals and Loops/Condition/Loops/Loops.iml" />
+    </modules>
+  </component>
+</project>
